@@ -717,8 +717,14 @@
 .flag-icon-us {
     background-image: url(../flags/4x3/us.svg)
 }
+.flag-icon-us {
+    background-image: url(../flags/4x3/us.svg)
+}
 .flag-icon-uy {
     background-image: url(../flags/4x3/uy.svg)
+}
+.flag-icon-uz {
+    background-image: url(../flags/4x3/uz.svg)
 }
 .flag-icon-vc {
     background-image: url(../flags/4x3/vc.svg)

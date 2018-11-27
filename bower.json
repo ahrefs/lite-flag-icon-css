@@ -1,0 +1,24 @@
+{
+  "name": "lite-flag-icon",
+  "description": "Lite version of flag-icon-css",
+  "main": "index.js",
+  "authors": [
+    "max <max.li.bin@ahrefs.com>",
+    "Eric Ritchey <eric@eandjdesign.com>",
+    "Andrew Eisenberg <andrew.eisenberg@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "flag",
+    "icon",
+    "css"
+  ],
+  "homepage": "https://github.com/maxlibin/lite-flag-icon-css",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

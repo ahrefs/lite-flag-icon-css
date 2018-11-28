@@ -165,6 +165,12 @@
 .flag-icon-cr {
     background-image: url(../flags/4x3/cr.svg)
 }
+.flag-icon-cr {
+    background-image: url(../flags/4x3/cs.svg)
+}
+.flag-icon-cs {
+    background-image: url(../flags/4x3/cs.svg)
+}
 .flag-icon-cu {
     background-image: url(../flags/4x3/cu.svg)
 }
@@ -341,6 +347,9 @@
 }
 .flag-icon-is {
     background-image: url(../flags/4x3/is.svg)
+}
+.flag-icon-io {
+    background-image: url(../flags/4x3/io.svg)
 }
 .flag-icon-it {
     background-image: url(../flags/4x3/it.svg)
@@ -726,8 +735,14 @@
 .flag-icon-uz {
     background-image: url(../flags/4x3/uz.svg)
 }
+.flag-icon-va {
+    background-image: url(../flags/4x3/va.svg)
+}
 .flag-icon-vc {
     background-image: url(../flags/4x3/vc.svg)
+}
+.flag-icon-vg {
+    background-image: url(../flags/4x3/vg.svg)
 }
 .flag-icon-ve {
     background-image: url(../flags/4x3/ve.svg)

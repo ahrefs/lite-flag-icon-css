@@ -1,6 +1,3 @@
-.flag-icon-ad {
-    background-image: url(../flags/4x3/ad.svg)
-}
 .flag-icon, .flag-icon-background {
     background-repeat: no-repeat;
     background-size: contain;
@@ -165,9 +162,6 @@
 .flag-icon-cr {
     background-image: url(../flags/4x3/cr.svg)
 }
-.flag-icon-cr {
-    background-image: url(../flags/4x3/cs.svg)
-}
 .flag-icon-cs {
     background-image: url(../flags/4x3/cs.svg)
 }
@@ -329,6 +323,9 @@
 }
 .flag-icon-ie {
     background-image: url(../flags/4x3/ie.svg)
+}
+.flag-icon-ie {
+    background-image: url(../flags/4x3/ii.svg)
 }
 .flag-icon-il {
     background-image: url(../flags/4x3/il.svg)
@@ -761,6 +758,9 @@
 }
 .flag-icon-ws {
     background-image: url(../flags/4x3/ws.svg)
+}
+.flag-icon-xk {
+    background-image: url(../flags/4x3/xk.svg)
 }
 .flag-icon-ye {
     background-image: url(../flags/4x3/ye.svg)

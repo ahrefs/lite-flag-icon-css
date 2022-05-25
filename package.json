@@ -4,7 +4,7 @@
   "description": "Lite version of flag-icon-css",
   "main": "index.js",
   "scripts": {
-    "prepare": "cd css; rm -f flag-icon.min.css; uglifycss flag-icon.css > flag-icon.min.css"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",

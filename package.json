@@ -1,6 +1,6 @@
 {
   "name": "lite-flag-icon",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Lite version of flag-icon-css",
   "main": "index.js",
   "scripts": {
